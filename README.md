@@ -11,3 +11,6 @@
 | Coin Change | Medium | [description](https://leetcode.com/problems/coin-change/), [solution](Medium/CoinChange.py) |
 | Partition Equal Subset Sum | Medium | [description](https://leetcode.com/problems/partition-equal-subset-sum/), [solution](Medium/PartitionEqualSubsetSum.py) |
 | Unique Paths | Medium | [description](https://leetcode.com/problems/unique-paths/), [solution](Medium/UniquePaths.py) |
+| Diameter of Binary Tree | Easy | [description](https://leetcode.com/problems/diameter-of-binary-trees/), [solution](Easy/DiameterOfBinaryTree.py) |
+| Insert Interval | Medium | [description](https://leetcode.com/problems/insert-interval/), [solution](Medium/InsertInterval.py) |
+| 3Sum | Medium | [description](https://leetcode.com/problems/3sum/), [solution](Medium/3Sum.py) |
