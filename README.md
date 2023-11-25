@@ -14,3 +14,5 @@
 | Diameter of Binary Tree | Easy | [description](https://leetcode.com/problems/diameter-of-binary-trees/), [solution](Easy/DiameterOfBinaryTree.py) |
 | Insert Interval | Medium | [description](https://leetcode.com/problems/insert-interval/), [solution](Medium/InsertInterval.py) |
 | 3Sum | Medium | [description](https://leetcode.com/problems/3sum/), [solution](Medium/3Sum.py) |
+| Product of Array Except Self | Medium | [description](https://leetcode.com/problems/product-of-array-except-self/description/), [solution](Medium/ProductOfArrayExceptSelf.py) |
+| Validate Binary Search Tree | Medium | [description](https://leetcode.com/problems/validate-binary-search-tree/description/), [solution](Medium/ValidateBinarySearchTree.py) |
