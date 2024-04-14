@@ -16,3 +16,5 @@
 | 3Sum | Medium | [description](https://leetcode.com/problems/3sum/), [solution](Medium/3Sum.py) |
 | Product of Array Except Self | Medium | [description](https://leetcode.com/problems/product-of-array-except-self/description/), [solution](Medium/ProductOfArrayExceptSelf.py) |
 | Validate Binary Search Tree | Medium | [description](https://leetcode.com/problems/validate-binary-search-tree/description/), [solution](Medium/ValidateBinarySearchTree.py) |
+| Minimum Changes To Make Alternating Binary String | Easy | [description](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/), [solution](Easy/MinimumChangesToBinaryString.py) |
+| Longest Substring Without Repeating Characters | Medium | [description](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/), [solution](Medium/LongestSubstringWithoutRepeatingCharacters.py) |
