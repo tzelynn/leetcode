@@ -18,3 +18,6 @@
 | Validate Binary Search Tree | Medium | [description](https://leetcode.com/problems/validate-binary-search-tree/description/), [solution](Medium/ValidateBinarySearchTree.py) |
 | Minimum Changes To Make Alternating Binary String | Easy | [description](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/), [solution](Easy/MinimumChangesToBinaryString.py) |
 | Longest Substring Without Repeating Characters | Medium | [description](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/), [solution](Medium/LongestSubstringWithoutRepeatingCharacters.py) |
+| Combination Sum | Medium | [description](https://leetcode.com/problems/combination-sum/), [solution](Medium/CombinationSum.py) |
+| Number of Islands | Medium | [description](https://leetcode.com/problems/number-of-islands/), [solution](Medium/NumberOfIslands.py) |
+| Implement Trie (Prefix Tree) | Medium | [description](https://leetcode.com/problems/implement-trie-prefix-tree/description/), [solution](Medium/ImplementTriePrefixTree.py) |
