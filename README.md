@@ -21,3 +21,6 @@
 | Combination Sum | Medium | [description](https://leetcode.com/problems/combination-sum/), [solution](Medium/CombinationSum.py) |
 | Number of Islands | Medium | [description](https://leetcode.com/problems/number-of-islands/), [solution](Medium/NumberOfIslands.py) |
 | Implement Trie (Prefix Tree) | Medium | [description](https://leetcode.com/problems/implement-trie-prefix-tree/description/), [solution](Medium/ImplementTriePrefixTree.py) |
+| House Robber | Medium | [description](https://leetcode.com/problems/house-robber/), [solution](Medium/HouseRobber.py) |
+| Palindromic Substrings | Medium | [description](https://leetcode.com/problems/palindromic-substrings/), [solution](Medium/PalindromicSubstrings.py) |
+| Decode Ways | Medium | [description](https://leetcode.com/problems/decode-ways/description/), [solution](Medium/DecodeWays.py) |
